@@ -1,4 +1,4 @@
-# MP3 Music Player
+# MP3 Music Player🎼
 
 This is a simple MP3 music player written in Python using the pygame library.
 
